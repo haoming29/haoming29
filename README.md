@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/techming?cardType=level)](https://git.io/awesome-stats-card)
 ![Metrics](/github-metrics.svg)
 
